@@ -1,2 +1,0 @@
-# InfWApp
-Created with CodeSandbox
